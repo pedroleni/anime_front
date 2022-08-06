@@ -1,6 +1,6 @@
-const URL = "https://anime-eta-teal.vercel.app/api/v1/manga";
+const URL = "https://anime-eta-teal.vercel.app/api/v1/anime";
 
-const URL2 ="https://anime-eta-teal.vercel.app/api/v1/anime"
+const URL2 ="https://anime-eta-teal.vercel.app/api/v1/manga"
 
 const container = document.querySelector("#container");
 const containerDos = document.querySelector("#containerDos");
