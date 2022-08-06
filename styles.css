@@ -72,7 +72,7 @@ background: linear-gradient(0deg, rgba(195,40,34,1) 0%, rgba(255,255,255,1) 99%)
 
 .figureManga{
     width: 300px;
-    height: 950px;
+    height: 1000px;
     padding: 30px;
     margin: 20px;
     display: flex;
@@ -96,7 +96,7 @@ background: linear-gradient(90deg,rgba(205, 92, 122, 0.436)   0%, rgba(245, 246,
 
 .figure{
     width: 400px;
-    height: 730px;
+    height: 800px;
     padding: 30px;
     margin: 20px;
     border: solid black 2px;
