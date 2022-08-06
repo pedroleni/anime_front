@@ -151,7 +151,11 @@ background: linear-gradient(90deg,rgba(205, 92, 122, 0.436)   0%, rgba(245, 246,
     }
 
 }
-
+@media only screen and ( max-width: 823px){
+    .figureManga{
+        height: auto;
+    } 
+    }
 @media only screen and ( max-width: 790px){
 
     .botones button{
