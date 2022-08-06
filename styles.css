@@ -53,6 +53,13 @@ background: linear-gradient(0deg, rgba(195,40,34,1) 0%, rgba(255,255,255,1) 99%)
 
 }
 
+.botones button:active{
+   
+    background:  rgba(255,255,255,1);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgb(255, 0, 0) 99%);
+    
+}
+
 #container{
     display: flex;
     direction: row;
@@ -156,3 +163,23 @@ background: linear-gradient(90deg,rgba(205, 92, 122, 0.436)   0%, rgba(245, 246,
 
 }
 
+@media only screen and ( max-width: 400px){
+    .botones{
+        width: 80%;
+    }
+    .botones button{
+        padding: 20px;
+        width: 120px;
+        margin:20px;
+        border-radius: 30px;
+        font-size: 15px;
+    
+    }
+    .figure{
+        height: auto;
+    }
+    .figureManga{
+        height: auto;
+    }
+
+}
