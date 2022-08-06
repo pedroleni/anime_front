@@ -1,6 +1,6 @@
-const URL = "https://japones.onrender.com/api/v1/anime/";
+const URL = "https://anime-eta-teal.vercel.app/api/v1/manga";
 
-const URL2 ="https://japones.onrender.com/api/v1/manga/"
+const URL2 ="https://anime-eta-teal.vercel.app/api/v1/anime"
 
 const container = document.querySelector("#container");
 const containerDos = document.querySelector("#containerDos");
